@@ -1,0 +1,75 @@
+{
+  "admins": [
+    {
+      "name": "yash",
+      "email": "y@gmail.com",
+      "password": "123",
+      "gender": "male",
+      "hobby": "h",
+      "city": "Surat",
+      "id": 1
+    },
+    {
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "password": "123456",
+      "gender": "male",
+      "hobby": "music,Reading",
+      "city": "Rajkot",
+      "id": 2
+    },
+    {
+      "name": "krish",
+      "email": "k@gmail.com",
+      "password": "12345",
+      "gender": "male",
+      "hobby": "cycling",
+      "city": "Navasari",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "name": "Pillow",
+      "image": "https://m.media-amazon.com/images/I/91E6Wrrhg-L._SL1500_.jpg",
+      "price": "500",
+      "desc": "nt-earth-day-hands-trees-growing-seedlings-bokeh-green-bac",
+      "id": 1
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDgZrPUwtIE7ZgEQfBi8KHRSRyu5RYLgCQeQ&usqp=CAU",
+      "name": "Pillow 1",
+      "price": "800",
+      "desc": "nt-earth-day-hands-trees-growing-seedlings-bokeh-green-bac",
+      "id": 2
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPqWT6py1p5qtupAjPsHuMkv8_IDe3M-XZg&usqp=CAU",
+      "name": "Pillow 3",
+      "price": "900",
+      "desc": "nt-earth-day-hands-trees-growing-seedlings-bokeh-green-bac",
+      "id": 3
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bu3XEkiRsNoaFIiLenqhJVKH0hknw5Ux_A&usqp=CAU",
+      "name": "Pillow 3",
+      "price": "600",
+      "desc": "nt-earth-day-hands-trees-growing-seedlings-bokeh-green-bac",
+      "id": 4
+    },
+    {
+      "image": "https://cdn.thewirecutter.com/wp-content/media/2023/01/bedpillows-2048px-9999.jpg",
+      "name": "Pillow 4",
+      "price": "700",
+      "desc": "nt-earth-day-hands-trees-growing-seedlings-bokeh-green-bac",
+      "id": 5
+    },
+    {
+      "image": "https://images.woodenstreet.de/image/cache/data%2Fhosta+homes%2Fultra-soft-blue-line-printed-cotton-fabric-filled-pillow-set-of-2-17-27-inch%2F1-750x650.jpg",
+      "name": "Pillow 5",
+      "price": "1200",
+      "desc": "nt-earth-day-hands-trees-growing-seedlings-bokeh-green-bac",
+      "id": 6
+    }
+  ]
+}
